@@ -1,4 +1,5 @@
 fun main() {
+    //số lớn nhất
     println("Nhập a:")
     var a1 = readLine()!!
     var a = a1.toInt()
