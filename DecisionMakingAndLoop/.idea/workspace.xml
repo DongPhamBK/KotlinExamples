@@ -40,7 +40,31 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Create_Pyramid_and_PatternKt">
+  <component name="RunManager" selected="Application.Count_Number_of_Digits_in_an_IntegerKt">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Count_Number_of_Digits_in_an_IntegerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="DecisionMakingAndLoop" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Count_Number_of_Digits_in_an_IntegerKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Count_the_Number_of_Vowels_and_Consonants_in_a_SentenceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="DecisionMakingAndLoop" />
       <option name="VM_PARAMETERS" />
@@ -62,19 +86,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="Create_Pyramid_and_PatternKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Display_Armstrong_Number_Between_Two_IntervalsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="DecisionMakingAndLoop" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Display_Armstrong_Number_Between_Two_IntervalsKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Count_Number_of_Digits_in_an_IntegerKt" />
         <item itemvalue="Application.Create_Pyramid_and_PatternKt" />
         <item itemvalue="Application.Sort_Elements_in_Lexicographical_OrderKt" />
         <item itemvalue="Application.Count_the_Number_of_Vowels_and_Consonants_in_a_SentenceKt" />
         <item itemvalue="Application.Make_a_Simple_CalculatorKt" />
-        <item itemvalue="Application.Display_Armstrong_Number_Between_Two_IntervalsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -135,6 +146,7 @@
       <workItem from="1614432043256" duration="1630000" />
       <workItem from="1614435249358" duration="1401000" />
       <workItem from="1614436821439" duration="79000" />
+      <workItem from="1614567403321" duration="502000" />
     </task>
     <servers />
   </component>
