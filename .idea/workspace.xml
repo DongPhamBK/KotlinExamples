@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81a03986-561c-47a1-9386-275209c3c349" name="Default Changelist" comment="" />
+    <list default="true" id="1c94989d-78ba-412b-8915-d8a890882d4c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1p0hsQlb6RYNV9ELD3YKXxoUDma" />
+  <component name="ProjectId" id="1uhncGeByNThK0e5C5jto8IFtF0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -17,22 +17,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Arrays" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="81a03986-561c-47a1-9386-275209c3c349" name="Default Changelist" comment="" />
-      <created>1614326127167</created>
+      <changelist id="1c94989d-78ba-412b-8915-d8a890882d4c" name="Default Changelist" comment="" />
+      <created>1625126766008</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1614326127167</updated>
-      <workItem from="1614326128479" duration="615000" />
-      <workItem from="1625126732999" duration="62000" />
+      <updated>1625126766008</updated>
+      <workItem from="1625126767122" duration="12000" />
     </task>
     <servers />
   </component>

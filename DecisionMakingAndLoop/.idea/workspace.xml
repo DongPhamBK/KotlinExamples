@@ -34,13 +34,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../KotlinLearning/LearnOverriding" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Count_Number_of_Digits_in_an_IntegerKt">
+  <component name="RunManager" selected="Application.Find_GCD_of_two_NumbersKt">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -48,6 +48,19 @@
         </value>
       </option>
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Check_Whether_a_Number_is_Prime_or_NotKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="DecisionMakingAndLoop" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Check_Whether_a_Number_is_Prime_or_NotKt" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -60,19 +73,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="Count_Number_of_Digits_in_an_IntegerKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Count_the_Number_of_Vowels_and_Consonants_in_a_SentenceKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="DecisionMakingAndLoop" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Count_the_Number_of_Vowels_and_Consonants_in_a_SentenceKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,14 +91,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Make_a_Simple_CalculatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="Find_GCD_of_two_NumbersKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="DecisionMakingAndLoop" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Make_a_Simple_CalculatorKt" />
+      <option name="MAIN_CLASS_NAME" value="Find_GCD_of_two_NumbersKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Find_GCD_of_two_NumbersKt" />
+        <item itemvalue="Application.Check_Whether_a_Number_is_Prime_or_NotKt" />
         <item itemvalue="Application.Count_Number_of_Digits_in_an_IntegerKt" />
         <item itemvalue="Application.Create_Pyramid_and_PatternKt" />
         <item itemvalue="Application.Sort_Elements_in_Lexicographical_OrderKt" />
-        <item itemvalue="Application.Count_the_Number_of_Vowels_and_Consonants_in_a_SentenceKt" />
-        <item itemvalue="Application.Make_a_Simple_CalculatorKt" />
       </list>
     </recent_temporary>
   </component>
@@ -147,6 +147,10 @@
       <workItem from="1614435249358" duration="1401000" />
       <workItem from="1614436821439" duration="79000" />
       <workItem from="1614567403321" duration="502000" />
+      <workItem from="1614732797607" duration="12000" />
+      <workItem from="1615455910225" duration="600000" />
+      <workItem from="1615470515356" duration="601000" />
+      <workItem from="1615778597022" duration="167000" />
     </task>
     <servers />
   </component>
